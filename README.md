@@ -16,6 +16,6 @@
 
 Применены следующие технологии: flexbox верстка, Grid Layout, анимации, медиа-запросы.
 
-* [Ссылка на проект](https://elena-zinchenko.github.io/russian-travel/)
+* [Ссылка на проект](https://elena-zinchenko.github.io/russian-travel/index.html)
 
 
